@@ -18,9 +18,11 @@
   <li>:computer: Scientific research in the field of <b>Computer Vision</b> and Physiotherapy.</li>
 </ul>
 
+<div>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&redirect=true">
     <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=b424db&bar_color_cover=false"
   </a>
+</div>
 
 ## Skills
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
