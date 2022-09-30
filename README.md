@@ -8,6 +8,6 @@
   <li>:computer: Scientific research in the field of <b>Computer Vision</b> and Physiotherapy.</li>
 </ul>
 
-<p align="center">
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=983bab&bar_color_cover=false">
+<p align="right">
+<img align=right src="(https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=b424db&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&redirect=true)"
 </p>
