@@ -7,9 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baggiio&show_icons=true&theme=jolly)
 </p>
 
-## :sassy_man:  About me
+## :large_blue_diamond:  About me
 - :mortar_board: I am a **Computer Science** student at <a href="https://portal.fei.edu.br/">FEI University Center</a>.
-<br>
 - :robot: Currently member of the @Home category **world champion** :trophy: team: <a href="https://www.instagram.com/robofei/">**RoboFEI**</a>
-<br>
 - :computer: Scientific research in the field of **Computer Vision** and **Physiotherapy**
