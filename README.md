@@ -6,8 +6,4 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/gamertagbaggio?si=19ffd20b795c42ea">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
