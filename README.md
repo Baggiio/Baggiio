@@ -9,5 +9,5 @@
 </ul>
 
 <p align="right">
-<img align=right src="(https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=b424db&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&redirect=true)"
+<img align=right src="https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=b424db&bar_color_cover=false)(https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&redirect=true)"
 </p>
