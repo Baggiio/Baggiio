@@ -8,9 +8,6 @@
 
   <a href="https://www.instagram.com/_gbaggio_" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-  <a href="https://www.twitch.tv/baggiio" alt="Twitch">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </p>  
 <ul>
   <li>:mortar_board: <b>Computer Science</b> student at <a href="https://portal.fei.edu.br/"><b>FEI University Center</b></a>.</li>
