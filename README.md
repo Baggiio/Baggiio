@@ -7,7 +7,8 @@
 - :mortar_board: I am a **Computer Science** student at <a href="https://portal.fei.edu.br/">FEI University Center</a>.
 - :robot: Currently member of the @Home category **world champion** :trophy: team: <a href="https://www.instagram.com/robofei/">**RoboFEI**</a>.
 - :computer: Scientific research in the field of **Computer Vision** and **Physiotherapy**.
+<br>
 
 <p align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=983bab&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&redirect=true)
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=983bab&bar_color_cover=false">
 </p>
