@@ -1,3 +1,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baggiio)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2?si=ea3e2b0a59a84640)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&cover_image=true&theme=novatorem&bar_color=9900ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gamertagbaggio&redirect=true)
