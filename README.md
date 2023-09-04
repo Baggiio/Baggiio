@@ -11,7 +11,7 @@
 </p>  
 <ul>
   <li>:mortar_board: <b>Computer Science</b> student at <a href="https://portal.fei.edu.br/"><b>FEI University Center</b></a>.</li>
-  <li>:robot: Member of the RoboCup@Home current <b>world champion</b> :trophy: brazilian team, <a href="https://www.instagram.com/robofei/"><b>RoboFEI</b></a>.</li>
+  <li>:robot: Member of the RoboCup@Home <b>world champion</b> :trophy: brazilian team, <a href="https://www.instagram.com/robofei/"><b>RoboFEI</b></a>.</li>
   <li>:computer: Scientific research in the field of <b>Computer Vision</b> and Physiotherapy.</li>
 </ul>
 
